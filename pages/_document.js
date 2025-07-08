@@ -4,6 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
+        <meta name="robots" content="noindex">
         <meta charSet="utf-8" />
         <link rel="icon" href="/resources/Diamond.png" />
         <link rel="stylesheet" type="text/css" />
